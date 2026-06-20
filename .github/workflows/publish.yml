@@ -38,7 +38,7 @@ jobs:
           submodules: recursive
       - name: Build repository index
         run: |
-          pip install index_builder/requirements.txt
+          pip install -r index_builder/requirements.txt
           python index_builder/build_index.py
       - name: Cleanup
         run: |
