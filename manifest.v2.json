@@ -44,6 +44,18 @@
           "supported_platforms": [
             "kindlehf"
           ]
+        },
+        {
+          "url": "packages/koreader/artifacts/koreader_2026.3.3_kindlehf.kpkg",
+          "version": [
+            2026,
+            3,
+            3
+          ],
+          "dependencies": [],
+          "supported_platforms": [
+            "kindlehf"
+          ]
         }
       ]
     },
